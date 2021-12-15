@@ -1,0 +1,6 @@
+n=input('enter the character to transform the string into float and  to convert it into int: ')
+print(type(n))
+n=float(n)
+print(type(n))
+n=int(n)
+print(type(n))
